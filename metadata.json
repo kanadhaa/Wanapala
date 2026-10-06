@@ -1,0 +1,6 @@
+{
+  "name": "Wanapala App — Sistem Manajemen Organisasi Pencinta Alam",
+  "description": "Platform terpadu pengelolaan operasional pencinta alam: arsitektur sistem, skema database PostgreSQL, laporan keuangan kas & LPJ PDF otomatis, timeline & sinkronisasi kalender, jarkom push notification, SOP digital vault, inventaris logistik, logbook ekspedisi, biometrik, offline sync, dan tombol darurat SOS.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
